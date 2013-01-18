@@ -1,0 +1,45 @@
+@import url("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css");
+@import url("shThemeEclipse.css");
+
+html {
+	margin: 0px;
+	padding: 0px;
+	}
+body { 
+	margin: auto;
+	width: 960px;
+	padding: 0px; 
+	}
+#logo{
+	margin: auto 180px;
+	width: 600px;
+}
+.text-core {
+	margin: auto 210px;
+	width: 540px;
+}
+#search {
+	width: 540px;
+}
+#loading {
+	margin: -21px 176px;
+	width: 50px;
+	float: left;
+}
+#spellcheck {
+	float: right;
+}
+#signin {
+	float: right;
+	margin-top: 5px;
+}
+#copyright {
+	position: relative;
+	margin: auto 70px;
+	width: 865px;
+}
+#innerCopyright {
+	position: absolute;
+	bottom: -90px;
+	color: #C0C0C0;
+}

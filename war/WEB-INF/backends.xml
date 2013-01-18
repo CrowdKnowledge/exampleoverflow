@@ -1,0 +1,8 @@
+<backends>
+	<backend name="cmd">
+		<class>B4</class>
+		<options>
+			<dynamic>true</dynamic>
+		</options>
+	</backend>
+</backends>

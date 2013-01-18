@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /deleteall/
+Disallow: /updatadata/
+Disallow: /indexdata/
+Disallow: /search/
+Disallow: /spellcheck/
+Disallow: /remote_api/
