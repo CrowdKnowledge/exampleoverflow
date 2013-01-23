@@ -33,7 +33,7 @@ public class ManageData {
 	
 	private static final String API_KEY = "m4Qd_8cYykKi5MBOpwFdSg";
 	private static final int MAX_PAGE_SIZE = 100;
-	private static final int MAX_RESULTS = 15000;
+	private static final int MAX_RESULTS = 15;
 	private static final int NUM_OF_CODE_SNIPPETS_TO_EXTRACT = 1;
 	private static double NUM_OF_LINES = 0;
 	private static double NUM_OF_SNIPPETS = 0;

@@ -1,5 +1,5 @@
-@import url("http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css");
-@import url("shThemeEclipse.css");
+@import url("http://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.0/themes/base/jquery-ui.css");
+@import url("syntaxhighlight/shThemeEclipse.css");
 
 html {
 	margin: 0px;
@@ -8,7 +8,8 @@ html {
 body { 
 	margin: auto;
 	width: 960px;
-	padding: 0px; 
+	padding: 0px;
+	font-size: 95%;
 	}
 #logo{
 	margin: auto 180px;
@@ -42,4 +43,8 @@ body {
 	position: absolute;
 	bottom: -90px;
 	color: #C0C0C0;
+}
+
+.accordionClass {
+	width: 960px;
 }
